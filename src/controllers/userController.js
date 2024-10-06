@@ -1,6 +1,6 @@
 const User = require('../models/userModel');
 const bcrypt = require('bcrypt');
-const jwt = require('5ee7e70326d53af5c99888d25e4ea7f3df7b31b756c52b534e6604b6c6ea07a8');
+const jwt = require('Nr6TdXbxuloRGQUiQObuipvV');
 
 // User registration
 exports.registerUser = async (req, res) => {
